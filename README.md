@@ -37,7 +37,8 @@ See screenshots at the end for more details and visulaization
 Only 2% of the Pewlett Hackard employees that are about to retire are eligible to mentor others.  I do not feel that just over 1,500 people is enough help to mentor a pool of more than 72,000 new hires.  I believe Pewlett Hackard needs to invest in video and virtual learning/mentorship opportunities to fill gaps left my lack of eligible mentors. 
 
 
-##Screenshots
+## Screenshots
+
 Screenshot 1: Data frame showing “retirement titles” Deliverable #1.
 
 ![image](https://user-images.githubusercontent.com/92705556/152660138-77c95ae3-8cb1-40f2-81fb-d314e0ec7077.png)
