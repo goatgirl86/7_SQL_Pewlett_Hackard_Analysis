@@ -34,7 +34,7 @@ See screenshots at the end for more details and visulaization
 -	72,458 people will be retiring from Pewlett Hackard in the next few years.
 -	Only 1,549 employees are eligible to be a mentor (569 Senior Staff and 529 Senior Engineers)
 
-Only 2% of the Pewlett Hackard employees that are about to retire are eligible to mentor others.  I do not feel that just over 1,500 people is enough help to mentor a pool of more than 72,000 new hires.  I believe Pewlett Hackard needs to invest in video and virtual learning/mentorship opportunities to fill gaps left my lack of eligible mentors. 
+I do not feel that just over 1,500 people is enough help to mentor a pool of more than 72,000 new hires.  I believe Pewlett Hackard needs to invest in video and virtual learning/mentorship opportunities to fill gaps left my lack of eligible mentors. 
 
 
 ## Screenshots
