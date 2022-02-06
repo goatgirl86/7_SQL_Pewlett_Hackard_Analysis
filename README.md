@@ -84,3 +84,6 @@ I do not feel that just over 1,500 people is enough help to mentor a pool of mor
  ![image](https://user-images.githubusercontent.com/92705556/152660171-45b2bd8a-4876-4459-b530-e3dc79a48b1d.png)
 
 
+### Screenshot 10: Correction on code in Unique_Titles code block
+
+![Correction on Unique Titles](https://user-images.githubusercontent.com/92705556/152667923-54f950af-33b5-4ff8-b193-df9c5a6caf10.PNG)
